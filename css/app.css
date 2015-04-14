@@ -6052,4 +6052,7 @@ th.hide-for-touch {
   th.show-for-print {
     display: table-cell !important; }
  }
+
+body {
+  background: darkviolet; }
 /*# sourceMappingURL=app.css.map */
